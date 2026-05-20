@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#ellie  ",
+      "color": {
+        "a": 1,
+        "rgb": 15052502
+      }
+    },
+    {
+      "query": "tag:#승현  ",
+      "color": {
+        "a": 1,
+        "rgb": 16380385
+      }
+    },
+    {
+      "query": "tag:#sehyun  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 3.36773003472222,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.4621992220929714,
+  "close": true
+}

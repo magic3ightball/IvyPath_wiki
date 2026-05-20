@@ -1,0 +1,26 @@
+/* Hong Seunghyun / Physics pages: enable this snippet in Obsidian Settings > Appearance > CSS snippets. */
+
+.markdown-preview-view.physics-blue,
+.markdown-source-view.physics-blue .cm-content {
+  --physics-blue-bg: #f1f7ff;
+  --physics-blue-border: #82b7f4;
+  --physics-blue-accent: #1d67c1;
+}
+
+.markdown-preview-view.physics-blue {
+  background: var(--physics-blue-bg);
+}
+
+.markdown-preview-view.physics-blue h1,
+.markdown-preview-view.physics-blue h2,
+.markdown-preview-view.physics-blue h3 {
+  color: var(--physics-blue-accent);
+}
+
+.markdown-preview-view.physics-blue .metadata-container {
+  border-left: 4px solid var(--physics-blue-border);
+}
+
+.markdown-source-view.physics-blue .cm-content {
+  background: var(--physics-blue-bg);
+}

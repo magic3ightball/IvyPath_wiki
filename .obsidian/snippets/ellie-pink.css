@@ -1,0 +1,26 @@
+/* Ellie teacher pages: enable this snippet in Obsidian Settings > Appearance > CSS snippets. */
+
+.markdown-preview-view.ellie-pink,
+.markdown-source-view.ellie-pink .cm-content {
+  --ellie-pink-bg: #fff2f8;
+  --ellie-pink-border: #f3a4c6;
+  --ellie-pink-accent: #d63384;
+}
+
+.markdown-preview-view.ellie-pink {
+  background: var(--ellie-pink-bg);
+}
+
+.markdown-preview-view.ellie-pink h1,
+.markdown-preview-view.ellie-pink h2,
+.markdown-preview-view.ellie-pink h3 {
+  color: var(--ellie-pink-accent);
+}
+
+.markdown-preview-view.ellie-pink .metadata-container {
+  border-left: 4px solid var(--ellie-pink-border);
+}
+
+.markdown-source-view.ellie-pink .cm-content {
+  background: var(--ellie-pink-bg);
+}

@@ -1,0 +1,26 @@
+/* Sehyun / planning pages: enable this snippet in Obsidian Settings > Appearance > CSS snippets. */
+
+.markdown-preview-view.planning-green,
+.markdown-source-view.planning-green .cm-content {
+  --planning-green-bg: #f1fbf5;
+  --planning-green-border: #7ac99a;
+  --planning-green-accent: #178a4f;
+}
+
+.markdown-preview-view.planning-green {
+  background: var(--planning-green-bg);
+}
+
+.markdown-preview-view.planning-green h1,
+.markdown-preview-view.planning-green h2,
+.markdown-preview-view.planning-green h3 {
+  color: var(--planning-green-accent);
+}
+
+.markdown-preview-view.planning-green .metadata-container {
+  border-left: 4px solid var(--planning-green-border);
+}
+
+.markdown-source-view.planning-green .cm-content {
+  background: var(--planning-green-bg);
+}

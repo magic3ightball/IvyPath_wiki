@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "9382e910f62e1a39",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72bef0a2538dc2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5232feb8fddd9016",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a150f6bf3cc555ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "54113079ab483a6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b725aacd5932042",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "b0991132e4216976",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "880fbe7587ed4c27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "37352d6af1881ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f050ab036a9d1b98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fc9d453a19f49aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "098b3d44dd94aff3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "90400d3ad3561fc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "51bed3f7b5c51078",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "64908b82acd328a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "5232feb8fddd9016",
+  "lastOpenFiles": [
+    "_index.md",
+    "_log.md",
+    "raw/2026-05-20-sehyun-platform-branding-qa.md",
+    "raw/2026-05-20-ellie-english-branding-qa.md",
+    "raw/2026-05-20-hong-seunghyun-physics-branding-summary.md",
+    "raw/2026-05-20-online-study-abroad-physics-branding-qa.md",
+    "brand/핵심가치.md",
+    "content/강의-방식.md",
+    "people/홍승현.md",
+    "students/국제학교-물리-학생.md",
+    "sources/온라인-유학원-인강-브랜딩-질문정리.md",
+    "sales/플랫폼-신뢰-포인트.md",
+    "sources/홍승현-물리강사-브랜딩-정리.md",
+    "sources/세현-플랫폼-브랜딩-질문정리.md",
+    "students/국제학교-개념적용-학생.md",
+    "content/라이트보드-기반-강의.md",
+    "brand/세현-기획-핵심가치.md",
+    "brand/플랫폼-브랜드-방향.md",
+    "people/세현.md",
+    "brand/엘리쌤-영어-브랜드.md",
+    "sources/엘리쌤-영어강사-브랜딩-질문정리.md",
+    "sales/엘리쌤-브랜드-문구-후보.md",
+    "sales/엘리쌤-학부모-설득-포인트.md",
+    "content/엘리쌤-강의-방식.md",
+    "curriculum/국제학교-English-커리큘럼.md",
+    "students/국제학교-Academic-English-학생.md",
+    "raw"
+  ]
+}

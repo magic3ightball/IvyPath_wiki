@@ -1,0 +1,12 @@
+{
+  "enabledCssSnippets": [
+    "physics-blue",
+    "ellie-pink",
+    "planning-green"
+  ],
+  "cssTheme": "WY Console",
+  "accentColor": "",
+  "translucency": false,
+  "showRibbon": true,
+  "theme": "obsidian"
+}
