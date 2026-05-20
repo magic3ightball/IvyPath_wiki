@@ -173,11 +173,13 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5232feb8fddd9016",
+  "active": "7b725aacd5932042",
   "lastOpenFiles": [
+    "README.md",
     "_index.md",
     "_log.md",
     "raw/2026-05-20-sehyun-platform-branding-qa.md",
@@ -203,7 +205,6 @@
     "sales/엘리쌤-학부모-설득-포인트.md",
     "content/엘리쌤-강의-방식.md",
     "curriculum/국제학교-English-커리큘럼.md",
-    "students/국제학교-Academic-English-학생.md",
     "raw"
   ]
 }
