@@ -35,3 +35,13 @@
 
 - 홍승현 태그가 붙은 위키 페이지에서 Art, Business, Finance, Economics, Branding, Media 등 확장 분야로 Physics를 연결하는 메시지를 제거함.
 - 홍승현 브랜딩 방향을 국제학교 Physics, 쉬운 이해, AP/GPA/시험 적용 중심으로 정리함.
+
+## [2026-05-20] integration | Hermes Agent memory 연결
+
+- Hermes Agent repo를 `tools/hermes-agent/`에 클론해 설치/구조를 확인함.
+- 기존 `~/.hermes` 설치와 gateway 실행 상태를 확인함.
+- Hermes `llm-wiki` 스킬 호환을 위해 `SCHEMA.md`를 생성하고 `index.md -> _index.md`, `log.md -> _log.md` 링크를 추가함.
+- `~/.hermes/.env`에 `WIKI_PATH`와 `OBSIDIAN_VAULT_PATH`를 이 vault 경로로 설정함.
+- `~/.hermes/config.yaml`의 `terminal.cwd`를 이 vault 경로로 설정함.
+- `~/.hermes/skills/research/ivypath-wiki/SKILL.md`를 추가해 IvyPath 전용 위키 사용 규칙을 등록함.
+- `~/.hermes/memories/MEMORY.md`에 IvyPath 위키를 먼저 읽으라는 기억을 추가함.
