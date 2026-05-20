@@ -1,5 +1,11 @@
 # LLM 위키 로그
 
+## [2026-05-20] maintenance | LLM Wiki 운영 규칙 복구
+
+1. 현재 repo에 빠져 있던 `AGENTS.md`를 추가함.
+2. Karpathy style LLM Wiki 관리용 `rules/위키 운영 규칙.md`를 추가함.
+3. `_index.md`에 운영 규칙 진입점을 연결함.
+
 ## [2026-05-20] ingest | 온라인 유학원 인강 브랜딩 질문정리 PDF
 
 - 원본 PDF에서 질문과 빨간색 답변을 추출해 `온라인 유학원 인강 브랜딩 질문정리.md`로 정리함.

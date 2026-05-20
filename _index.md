@@ -1,5 +1,11 @@
 # LLM 위키 인덱스
 
+## Operating Rules
+
+[[AGENTS]]: 에이전트가 이 wiki를 관리할 때 먼저 읽는 진입점
+
+[[rules/위키 운영 규칙]]: Karpathy style LLM Wiki 구조, ingest 절차, 편집 원칙, 브랜딩 가드레일
+
 ## People
 
 | 페이지 | 요약 |
