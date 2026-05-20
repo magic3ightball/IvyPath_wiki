@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "그래프 뷰"
             }
+          },
+          {
+            "id": "e5631b18f73e1db5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,8 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b725aacd5932042",
+  "active": "e5631b18f73e1db5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "SCHEMA.md",
     "README.md",
     "_index.md",
     "_log.md",
@@ -203,8 +216,6 @@
     "sources/엘리쌤-영어강사-브랜딩-질문정리.md",
     "sales/엘리쌤-브랜드-문구-후보.md",
     "sales/엘리쌤-학부모-설득-포인트.md",
-    "content/엘리쌤-강의-방식.md",
-    "curriculum/국제학교-English-커리큘럼.md",
     "raw"
   ]
 }
