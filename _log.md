@@ -30,3 +30,8 @@
 - 홍승현 관련 페이지 10개에 `teacher: seunghyun`, `subject: physics`, `cssclasses: [physics-blue]`를 추가함.
 - 홍승현 관련 페이지 10개에 `seunghyun`, `hong-seunghyun`, `승현`, `teacher-hong`, `physics` 태그를 추가함.
 - Obsidian에서 홍승현/Physics 관련 페이지를 파란색으로 구분할 수 있도록 `wiki/.obsidian/snippets/physics-blue.css`를 추가함.
+
+## [2026-05-20] maintenance | 홍승현 확장 분야 메시지 제거
+
+- 홍승현 태그가 붙은 위키 페이지에서 Art, Business, Finance, Economics, Branding, Media 등 확장 분야로 Physics를 연결하는 메시지를 제거함.
+- 홍승현 브랜딩 방향을 국제학교 Physics, 쉬운 이해, AP/GPA/시험 적용 중심으로 정리함.

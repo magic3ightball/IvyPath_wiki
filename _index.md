@@ -13,7 +13,7 @@
 | 페이지 | 요약 |
 | --- | --- |
 | [[brand/홍승현-물리-브랜드]] | 홍승현 물리 인강 브랜드의 한 줄 정의, 약속, 차별점 |
-| [[brand/핵심가치]] | No Intimidation, Deep Understanding with Extreme Efficiency |
+| [[brand/핵심가치]] | No Intimidation, Deep Understanding with Extreme Efficiency, Physics as a Language of the Modern World |
 | [[brand/엘리쌤-영어-브랜드]] | 엘리쌤 영어 인강 브랜드의 한 줄 정의, 약속, 차별점 |
 | [[brand/엘리쌤-핵심가치]] | 이해 중심 학습, 시간 효율성, 학생 맞춤형 커리큘럼 |
 | [[brand/플랫폼-브랜드-방향]] | 라이트보드 기반 국제학교 학생 맞춤 인강의 플랫폼 방향 |
