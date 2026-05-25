@@ -21,10 +21,14 @@
             "id": "e5631b18f73e1db5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "brand/세현-기획-핵심가치.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "세현-기획-핵심가치"
             }
           }
         ],
@@ -190,6 +194,10 @@
   },
   "active": "e5631b18f73e1db5",
   "lastOpenFiles": [
+    "slack-archive/2026-05-25.md",
+    "slack-archive/2026-05-24.md",
+    "slack-archive/2026-05-23.md",
+    "slack-archive",
     "rules/위키 운영 규칙.md",
     "rules",
     "AGENTS.md",
@@ -214,9 +222,6 @@
     "content/라이트보드-기반-강의.md",
     "brand/세현-기획-핵심가치.md",
     "brand/플랫폼-브랜드-방향.md",
-    "people/세현.md",
-    "brand/엘리쌤-영어-브랜드.md",
-    "sources/엘리쌤-영어강사-브랜딩-질문정리.md",
     "raw"
   ]
 }
